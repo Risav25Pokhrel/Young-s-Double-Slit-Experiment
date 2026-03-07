@@ -10,6 +10,8 @@
 > This project was awarded an **Honorable Mention** in the *"Implementing Quantum Experiments"* challenge under the **Education Track** of the **Future Leaders in Quantum Hackathon 2025**, organized by the Quantum Coalition and co-organised by ITU, powered by IonQ. The hackathon was held on **20 May 2025, Geneva, Switzerland**.
 
 ---
+<img width="455" height="272" alt="Screenshot 2026-03-07 173928" src="https://github.com/user-attachments/assets/f894526e-f8b6-47af-94b3-094489622c00" />
+
 
 ## Table of Contents
 
